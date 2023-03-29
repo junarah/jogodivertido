@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/videoplayback (online-audio-converter.com).ogg-22978705a75dd6ea7af9d8f342457cff.oggstr"
+
+[deps]
+
+source_file="res://scenes/videoplayback (online-audio-converter.com).ogg"
+dest_files=[ "res://.import/videoplayback (online-audio-converter.com).ogg-22978705a75dd6ea7af9d8f342457cff.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
